@@ -1,2 +1,2 @@
-# intership_practice-
+# myfirst-
 SQL,Power bi basics,HTML
